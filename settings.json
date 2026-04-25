@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JKrestaha.aternos.me",
-    "port": 38977,
+    "ip": "rexelsSMP.aternos.me:31511",
+    "port": 31511,
     "version": "",
     "try-creative": false
   },
